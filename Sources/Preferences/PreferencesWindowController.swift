@@ -117,6 +117,8 @@ public final class PreferencesWindowController: NSWindowController {
 	}
 }
 
+/*
+ * Cannot mix and match SwiftUI on Mac and MacCatalyst. 
 @available(macOS 10.15, *)
 extension PreferencesWindowController {
 	/**
@@ -138,3 +140,4 @@ extension PreferencesWindowController {
 		)
 	}
 }
+*/
