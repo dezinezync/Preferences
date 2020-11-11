@@ -1,3 +1,4 @@
+/*
 import SwiftUI
 
 @available(macOS 10.15, *)
@@ -106,3 +107,4 @@ extension Preferences {
 		}
 	}
 }
+ */

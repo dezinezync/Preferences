@@ -1,5 +1,5 @@
 import Cocoa
-import SwiftUI
+//import SwiftUI
 
 extension NSImage {
 	static var empty: NSImage { NSImage(size: .zero) }
@@ -102,7 +102,7 @@ class UserInteractionPausableWindow: NSWindow {
 	}
 }
 
-
+/*
 @available(macOS 10.15, *)
 extension View {
 	/**
@@ -112,3 +112,4 @@ extension View {
 		AnyView(self)
 	}
 }
+*/

@@ -1,4 +1,4 @@
-import SwiftUI
+//import SwiftUI
 
 /**
 Represents a type that can be converted to `PreferencePane`.
@@ -11,7 +11,7 @@ public protocol PreferencePaneConvertible {
 	*/
 	func asPreferencePane() -> PreferencePane
 }
-
+/*
 @available(macOS 10.15, *)
 extension Preferences {
 	/**
@@ -99,3 +99,4 @@ extension View {
 		modifier(PreferenceDescriptionModifier())
 	}
 }
+*/

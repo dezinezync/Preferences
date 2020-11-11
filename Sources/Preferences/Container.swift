@@ -1,3 +1,4 @@
+/*
 import SwiftUI
 
 @available(macOS 10.15, *)
@@ -82,3 +83,4 @@ extension HorizontalAlignment {
 
 	static let preferenceSectionLabel = HorizontalAlignment(PreferenceSectionLabelAlignment.self)
 }
+*/
